@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_backlight_entries"> 
+        <item>Only incoming call</item> 
+        <item>After answering the call</item> 
+        <item>Always with the incoming</item> 
+        <item>Always with outgoing</item> 
+    </string-array> 
+    <string-array name="call_entries"> 
+        <item>Nothing</item> 
+        <item>Open dialer</item> 
+        <item>Exit to the desktop</item> 
+        <item>Exit and lock the phone</item> 
+    </string-array> 
+   	<string-array name="incall_small_background_entries"> 
+	    <item>Default</item>
+        <item>Agent</item> 
+        <item>Rabbit</item> 
+		<item>Mask</item> 
+		<item>MI logo</item> 
+		<item>Unknown</item>
+    </string-array>
+	<string-array name="incall_background_entries"> 
+	    <item>Default</item>
+        <item>Scream</item> 
+        <item>Bloody hands</item> 
+        <item>The man in the hood</item> 
+        <item>Hitman</item> 
+        <item>The hand behind the glass</item> 
+    </string-array> 
+    <string-array name="set_samplingrate_entries">
+        <item>Default (8000 Hz)</item>
+        <item>16000 Hz</item>
+        <item>22050 Hz</item>
+        <item>44100 Hz</item>
+    </string-array>
+    <string-array name="set_bitrate_entries">
+        <item>Default (8 kbps)</item>
+        <item>24 kbps</item>
+        <item>32 kbps</item>
+        <item>48 kbps</item>
+        <item>64 kbps</item>
+        <item>96 kbps</item>
+        <item>128 kbps</item>
+    </string-array>
+   	<string-array name="show_search_entries"> 
+        <item>Show</item> 
+        <item>Show in contacts</item> 
+        <item>Show in dialer</item> 
+        <item>Hide</item> 
+    </string-array> 
+   	<string-array name="key_call_entries"> 
+        <item>Hide</item> 
+        <item>Show</item> 
+    </string-array> 
+   	<string-array name="call_home_entries"> 
+        <item>Accept call</item> 
+        <item>Reject call</item> 
+        <item>Sound off</item> 
+        <item>Disabled</item> 
+    </string-array> 
+</resources>
