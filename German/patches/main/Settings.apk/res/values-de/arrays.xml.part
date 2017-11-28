@@ -2,20 +2,20 @@
 <resources>
 	<string-array name="launcher_gesture_entries"> 
         <item>Bildschirm ausschalten</item> 
-        <item>Power-MenÃ¼</item> 
-        <item>Aktuelle Apps</item> 
+        <item>Ausschalt-Menü</item> 
+        <item>Zuletzt benutzte Apps</item> 
         <item>Telefon</item> 
         <item>Sound Mode: Ton / Vibration</item> 
         <item>Benachrichtigungen</item> 
         <item>WLAN</item> 
         <item>Bluetooth</item> 
         <item>Mobile Daten</item> 
-        <item>Speicher lÃ¶schen</item> 
-        <item>Anwendung ausfÃ¼hren</item> 
+        <item>Speicher löschen</item> 
+        <item>Anwendung ausführen</item> 
         <item>Deaktiviert</item> 
     </string-array> 
    	<string-array name="smart_mobiledata_entries"> 
-        <item>Nicht Ã¤ndern</item> 
+        <item>Nicht ändern</item> 
         <item>Nur 2G</item> 
         <item>Nur 3G</item> 
         <item>Nur 4G</item> 
@@ -62,7 +62,7 @@
         <item>Alle Zeilen</item> 
     </string-array> 
 	<string-array name="smart_timer_entries">
-        <item>Nicht Ã¤ndern</item>
+        <item>Nicht ändern</item>
         <item>10 Minuten</item>
         <item>20 Minuten</item>
         <item>30 Minuten</item>
@@ -72,26 +72,26 @@
     </string-array>
     <string-array name="toast_animation_entries"> 
         <item>Keine</item> 
-        <item>standard</item> 
-        <item>Smooth appearance / attenuation</item> 
-        <item>Departure to the right and back</item> 
-        <item>Departure on the left and back</item> 
-        <item>Departure from right to left</item> 
-        <item>Departure from left to right</item> 
+        <item>Standard</item> 
+        <item>Glattes Erscheinungsbild / Dämpfung</item> 
+        <item>Abfahrt nach rechts und zurück</item> 
+        <item>Abfahrt links und zurück</item> 
+        <item>Abfahrt von rechts nach links</item> 
+        <item>Abfahrt von links nach rechts</item> 
         <item>Animation Xylon</item> 
         <item>Animation Toko</item> 
         <item>Rotation</item> 
         <item>Animation Honami</item> 
-        <item>Rapid appearance</item> 
-        <item>Slow appearance</item> 
-        <item>Popping from the center</item> 
-        <item>Popping up from the bottom</item> 
-        <item>Transparent right</item> 
-        <item>Right / Left reversal</item> 
-        <item>Turn with a coup from below</item> 
-        <item>A coup from the center</item> 
-        <item>Turning from below</item> 
-        <item>From the center to the center</item> 
+        <item>Schnelles Auftreten</item> 
+        <item>Langsames Auftreten</item> 
+        <item>Auftauchen aus der Mitte</item> 
+        <item>Auftauchen von unten</item> 
+        <item>Transparente Rechte</item> 
+        <item>Rechts/Links Umschaltung</item> 
+        <item>Drehen mit einem Coup von unten</item> 
+        <item>Ein Coup aus dem Zentrum</item> 
+        <item>Drehen von unten</item> 
+        <item>Vom Zentrum zum Zentrum</item> 
         <item>Benutzerdefiniert</item> 
     </string-array> 
    	<string-array name="gesture_anywhere_position_entries"> 
@@ -100,26 +100,26 @@
     </string-array> 
    	<string-array name="listview_animation_entries"> 
         <item>Standard</item> 
-        <item>Welle (links)</item> 
-        <item>Welle (rechts)</item> 
+        <item>Welle (nach links)</item> 
+        <item>Welle (nach rechts)</item> 
         <item>Alpha</item> 
-        <item>Scale</item> 
+        <item>Skalierung</item> 
         <item>Stapel (oben)</item> 
         <item>Stapel (unten)</item> 
-        <item>Entfalten</item> 
-        <item>Falten</item> 
-        <item>Translate (links)</item> 
-        <item>Translate (rechts)</item> 
+        <item>Ausklappen</item> 
+        <item>Einklappen</item> 
+        <item>Verrücken (links)</item> 
+        <item>Verrücken (rechts)</item> 
     </string-array> 
     <string-array name="listview_interpolator_entries"> 
         <item>Standard</item> 
         <item>Schneller</item> 
         <item>Langsamer</item> 
         <item>Langsames Beschleunigen</item> 
-        <item>Anticipate</item> 
-        <item>Overshoot</item> 
-        <item>Anticipate overshoot</item> 
-        <item>Bounce</item> 
+        <item>Erwarten</item> 
+        <item>Überschreiten</item> 
+        <item>Voraussehen und übertreffen</item> 
+        <item>Aufspringen</item> 
         <item>Zyklisch</item> 
         <item>Linear</item> 
     </string-array> 
@@ -171,7 +171,7 @@
         <item>MTP, wenn der Bildschirm nicht mit einem Passwort gesperrt ist.</item> 
     </string-array> 
   	<string-array name="volbtn_action_entries"> 
-        <item>NÃ¤chster</item> 
+        <item>Nächster</item> 
         <item>Pause</item> 
         <item>Abspielen</item> 
         <item>Abspielen / Pause</item> 
@@ -359,19 +359,19 @@
     </string-array> 
    	<string-array name="ts_keycode_entries"> 
         <item>Startseite</item> 
-        <item>GeÃ¶ffnete</item> 
+        <item>Geöffnete</item> 
     </string-array> 
     <string-array name="ts_limit_entries"> 
         <item>Zwei</item> 
         <item>Drei</item> 
-        <item>FÃ¼nf</item> 
+        <item>Fünf</item> 
         <item>Sieben</item> 
         <item>Zehn</item> 
         <item>Keine Begrenzung</item> 
     </string-array> 
     <string-array name="ts_direct_entries"> 
-        <item>ZurÃ¼ck</item> 
-        <item>VorwÃ¤rts</item> 
+        <item>Zurück</item> 
+        <item>Vorwärts</item> 
     </string-array> 
    	<string-array name="def_audio_entries"> 
         <item>Klingelton</item> 
