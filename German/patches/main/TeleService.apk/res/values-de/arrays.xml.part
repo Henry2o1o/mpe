@@ -8,7 +8,7 @@
     </string-array> 
     <string-array name="call_entries"> 
         <item>Nichts</item> 
-        <item>Dialer öffnen</item> 
+        <item>Dialer Ã¶ffnen</item> 
         <item>Beenden des Desktops</item> 
         <item>Beenden und Sperren des Telefons</item> 
     </string-array> 
@@ -23,7 +23,7 @@
 	<string-array name="incall_background_entries"> 
 	    <item>Standard</item>
         <item>Schrei</item> 
-        <item>Blutige Hände</item> 
+        <item>Blutige HÃ¤nde</item> 
         <item>Der Mann in der Kapuze</item> 
         <item>Hitman</item> 
         <item>Die Hand hinter dem Glas</item> 

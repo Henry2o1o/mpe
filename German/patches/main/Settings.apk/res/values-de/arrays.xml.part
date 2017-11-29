@@ -2,7 +2,7 @@
 <resources>
 	<string-array name="launcher_gesture_entries"> 
         <item>Bildschirm ausschalten</item> 
-        <item>Ausschalt-Menü</item> 
+        <item>Ausschalt-MenÃ¼</item> 
         <item>Zuletzt benutzte Apps</item> 
         <item>Telefon</item> 
         <item>Sound Mode: Ton / Vibration</item> 
@@ -10,12 +10,12 @@
         <item>WLAN</item> 
         <item>Bluetooth</item> 
         <item>Mobile Daten</item> 
-        <item>Speicher löschen</item> 
-        <item>Anwendung ausführen</item> 
+        <item>Speicher lÃ¶schen</item> 
+        <item>Anwendung ausfÃ¼hren</item> 
         <item>Deaktiviert</item> 
     </string-array> 
    	<string-array name="smart_mobiledata_entries"> 
-        <item>Nicht ändern</item> 
+        <item>Nicht Ã¤ndern</item> 
         <item>Nur 2G</item> 
         <item>Nur 3G</item> 
         <item>Nur 4G</item> 
@@ -62,7 +62,7 @@
         <item>Alle Zeilen</item> 
     </string-array> 
 	<string-array name="smart_timer_entries">
-        <item>Nicht ändern</item>
+        <item>Nicht Ã¤ndern</item>
         <item>10 Minuten</item>
         <item>20 Minuten</item>
         <item>30 Minuten</item>
@@ -73,9 +73,9 @@
     <string-array name="toast_animation_entries"> 
         <item>Keine</item> 
         <item>Standard</item> 
-        <item>Glattes Erscheinungsbild / Dämpfung</item> 
-        <item>Abfahrt nach rechts und zurück</item> 
-        <item>Abfahrt links und zurück</item> 
+        <item>Glattes Erscheinungsbild / DÃ¤mpfung</item> 
+        <item>Abfahrt nach rechts und zurÃ¼ck</item> 
+        <item>Abfahrt links und zurÃ¼ck</item> 
         <item>Abfahrt von rechts nach links</item> 
         <item>Abfahrt von links nach rechts</item> 
         <item>Animation Xylon</item> 
@@ -108,8 +108,8 @@
         <item>Stapel (unten)</item> 
         <item>Ausklappen</item> 
         <item>Einklappen</item> 
-        <item>Verrücken (links)</item> 
-        <item>Verrücken (rechts)</item> 
+        <item>VerrÃ¼cken (links)</item> 
+        <item>VerrÃ¼cken (rechts)</item> 
     </string-array> 
     <string-array name="listview_interpolator_entries"> 
         <item>Standard</item> 
@@ -117,8 +117,8 @@
         <item>Langsamer</item> 
         <item>Langsames Beschleunigen</item> 
         <item>Erwarten</item> 
-        <item>Überschreiten</item> 
-        <item>Voraussehen und übertreffen</item> 
+        <item>Ãœberschreiten</item> 
+        <item>Voraussehen und Ã¼bertreffen</item> 
         <item>Aufspringen</item> 
         <item>Zyklisch</item> 
         <item>Linear</item> 
@@ -171,7 +171,7 @@
         <item>MTP, wenn der Bildschirm nicht mit einem Passwort gesperrt ist.</item> 
     </string-array> 
   	<string-array name="volbtn_action_entries"> 
-        <item>Nächster</item> 
+        <item>NÃ¤chster</item> 
         <item>Pause</item> 
         <item>Abspielen</item> 
         <item>Abspielen / Pause</item> 
@@ -359,19 +359,19 @@
     </string-array> 
    	<string-array name="ts_keycode_entries"> 
         <item>Startseite</item> 
-        <item>Geöffnete</item> 
+        <item>GeÃ¶ffnete</item> 
     </string-array> 
     <string-array name="ts_limit_entries"> 
         <item>Zwei</item> 
         <item>Drei</item> 
-        <item>Fünf</item> 
+        <item>FÃ¼nf</item> 
         <item>Sieben</item> 
         <item>Zehn</item> 
         <item>Keine Begrenzung</item> 
     </string-array> 
     <string-array name="ts_direct_entries"> 
-        <item>Zurück</item> 
-        <item>Vorwärts</item> 
+        <item>ZurÃ¼ck</item> 
+        <item>VorwÃ¤rts</item> 
     </string-array> 
    	<string-array name="def_audio_entries"> 
         <item>Klingelton</item> 

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="end_call_title">Aktion nach Beendigung des Gespr‰chs</string> 
+    <string name="end_call_title">Aktion nach Beendigung des Gespr√§chs</string> 
     <string name="incommingcall_title">Nach dem Eintreffen</string> 
     <string name="outgoingcall_title">Nach dem Abgehen</string>
     <string name="call_backlight_title">Maximale Helligkeit</string> 
     <string name="call_backlight_night_title">Nachtmodus</string> 
     <string name="call_backlight_mode">Bildschirmhelligkeit bei Anruf</string> 
-    <string name="call_backlight_condition_title">Konditionen ‰ndern</string> 
+    <string name="call_backlight_condition_title">Konditionen √§ndern</string> 
     <string name="call_backlight_start_time">Startzeitpunkt</string> 
     <string name="call_backlight_stop_time">Endzeitpunkt</string> 
 	<string name="call_backlight_new_title">Brightness setting type</string>
-	<string name="call_backlight_new_on">Prim‰rer Modus</string>
-    <string name="call_backlight_new_off">Zus‰tzlicher Modus</string>
+	<string name="call_backlight_new_on">Prim√§rer Modus</string>
+    <string name="call_backlight_new_off">Zus√§tzlicher Modus</string>
     <string name="call_backlight_start_time_summary">%s:00</string> 
     <string name="call_backlight_stop_time_summary">%s:00</string>
     <string name="preferred_network_type_pref_entries_only_4g">4G Only</string>
@@ -21,25 +21,25 @@
 	<string name="full_avatar_title">Vollbildfoto</string>
 	<string name="incall_background_title">Vollbild ohne Fotos</string>
 	<string name="incall_small_background_title">Standard ohne Fotos</string>
-	<string name="default_image_pick">W‰hlen Sie ein Bild aus der Galerie</string>
-	<string name="call_record_setrate">Einstellungen f¸r die Aufnahmequalit‰t</string>
+	<string name="default_image_pick">W√§hlen Sie ein Bild aus der Galerie</string>
+	<string name="call_record_setrate">Einstellungen f√ºr die Aufnahmequalit√§t</string>
     <string name="set_samplingrate_title">Samplerate</string>
     <string name="set_bitrate_title">Bitrate</string>
 	<string name="show_search_title">Suchzeile</string>
 	<string name="show_profile_title">Profil ausblenden</string>
 	<string name="show_group_title">Gruppen ausblenden</string>
 	<string name="flash_time">Einstellung der Blinkgeschwindigkeit</string> 
-    <string name="flash_time_title">Einschaltverzˆgerung</string> 
+    <string name="flash_time_title">Einschaltverz√∂gerung</string> 
     <string name="flash_time_on_title">Aktiviert</string> 
     <string name="flash_time_off_title">Deaktiviert</string> 
     <string name="ring_time_summary">Zeit: %s ms</string>
-	<string name="sim_time_title">Zeit f¸r die Auswahl der SIM-Karte</string> 
+	<string name="sim_time_title">Zeit f√ºr die Auswahl der SIM-Karte</string> 
     <string name="sim_time_summary">Zeit: %s sek</string>
 	<string name="key_title">Tasten bei Anruf</string> 
-    <string name="set_key_call_title">F‰higkeit zum Ausblenden / Anzeigen</string> 
-    <string name="key_title_summary">Um die Schaltfl‰chen im Anruffenster anzuzeigen, ziehen Sie die Nummer nach unten. Um diese auszublenden, streichen Sie von unten nach oben.</string> 
+    <string name="set_key_call_title">F√§higkeit zum Ausblenden / Anzeigen</string> 
+    <string name="key_title_summary">Um die Schaltfl√§chen im Anruffenster anzuzeigen, ziehen Sie die Nummer nach unten. Um diese auszublenden, streichen Sie von unten nach oben.</string> 
     <string name="key_call_title">Ausgangszustand</string> 
-	<string name="call_home_title">Tastenbet‰tigung [HOME]</string>
-	<string name="auto_redial_times_title">W‰hlversuche</string> 
+	<string name="call_home_title">Tastenbet√§tigung [HOME]</string>
+	<string name="auto_redial_times_title">W√§hlversuche</string> 
     <string name="auto_redial_times_summary">Installiert: %s</string>
 </resources>
