@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="card_main_hbassistant_title">Sicherheit</string>
+    <string name="card_main_hbassistant_title">App-Sperre</string>
     <string name="card_main_hbassistant_summary">Mehr Geschwindigkeit &amp; Verbesserung des Spielerlebnisses</string>
 	<string name="power_settings_number">Prozentanzeige und grafische Darstellung</string>
     <string name="power_settings_number_set">Nur Prozenteanzeige</string> 
