@@ -1,3 +1,3 @@
-# MIUIPRO V9 German Translation
+# MIUIPRO V10 German Translation
 MIUIPRO Extras
 #
